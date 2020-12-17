@@ -4,9 +4,12 @@ Das Repository ist für die Vorlesung und Übung 'Anwendungsprogrammierung im CA
 
 ## How to use
 
-Sie können den Code direkt in Github sehen ohne die Daten herunterzuladen. Dies ist geeignet wenn Sie Ihren Code überprüfen möchten.
+uebung: Codes, die in Videos erklärt werden.
+aufgabe: die Lösungen der Hausaufgaben
 
-Wenn Sie den originalen Code bearbeiten möchten, können Sie das Projekt herunterladen und auf Ihrem Computer weiterarbeiten. (siehe Tutorials)
+Sie können die Codes direkt in Github sehen ohne die Daten herunterzuladen. Dies ist geeignet wenn Sie Ihren Code überprüfen möchten.
+
+Wenn Sie die originalen Codes bearbeiten möchten, können Sie das Projekt herunterladen und auf Ihrem Computer weiterarbeiten. (siehe Tutorials)
 
 ## Git Tutorials
 1. [Git Tutorial](https://git-scm.com/docs/gittutorial)
