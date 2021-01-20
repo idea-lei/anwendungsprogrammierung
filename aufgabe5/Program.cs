@@ -18,7 +18,7 @@ namespace aufgabe5 {
             List<int> list = new List<int>();
             list.AddRange(listArray);
 
-            int length = originalList.Count;
+            int length = originalList.Count; // because the count of the list is dynamic, we setup a value type to avoid length problem
             int minIndex;
             for (int i = 0; i < length; i++) {
                 minIndex = 0;
