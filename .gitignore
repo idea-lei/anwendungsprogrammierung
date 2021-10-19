@@ -2,26 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Anwendungsprogrammierung/v16
-/Anwendungsprogrammierung/obj
-/aufgabe1/obj
-/aufgabe1/bin/Debug/netcoreapp3.1
-/uebung2/obj
-/aufgabe2/obj
-/uebung1/obj
-/aufgabe3/obj
-/.vs/Anwendungsprogrammierung/DesignTimeBuild
-/aufgabe3/bin/Debug/netcoreapp3.1
-/uebung3/bin/Debug/netcoreapp3.1
-/uebung3/obj
-/aufgabe4/bin/Debug/netcoreapp3.1
-/aufgabe4/obj
-/uebung4/bin/Debug/netcoreapp3.1
-/uebung4/obj
-/uebung5/obj
-/uebung5/bin/Debug/netcoreapp3.1
-/aufgabe5/bin/Debug/netcoreapp3.1
-/aufgabe5/obj
-/uebung6/bin/Debug/netcoreapp3.1
-/uebung6/obj
 /.vs
+/CSharp/*/obj
