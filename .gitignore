@@ -5,3 +5,5 @@
 /.vs
 /CSharp/*/obj
 /CSharp/*/bin
+/VB/*/bin
+/VB/*/obj
