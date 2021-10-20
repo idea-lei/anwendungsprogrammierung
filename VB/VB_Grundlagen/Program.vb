@@ -11,8 +11,9 @@ Module HauptProgram
     ''' <summary>
     ''' Sub means sub procedure
     ''' this defines a Sub, the "Main" Sub is the entry of the program, every VB project should have one and only one "Main" Sub
+    ''' Sub has no Return!
     ''' syntax for other Sub definition:
-    '''     Sub FuncName(p1 As Type1, p2 As Type2...)
+    '''     Sub SubName(p1 As Type1, p2 As Type2...)
     '''         --Content--
     '''     End Sub
     ''' </summary>
@@ -35,7 +36,9 @@ Module HauptProgram
             .Sex = Sex.Male
         End With
 
-        Console.WriteLine($"{s1.Name} is {s1.Age} years old, studing {s1.Major} with MatNr {s1.MatNr}")
+        's1.Name = "neuer Name"      'uncomment this and see the difference
+
+        Console.WriteLine($"{s1.Name} is {s1.Age()} years old, studing {s1.Major} with MatNr {s1.MatNr}")
     End Sub
 End Module
 
