@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace uebung6._2048 {
     public class Game {
@@ -31,31 +32,43 @@ namespace uebung6._2048 {
             DisPlay();
         }
 
-        private void Operate(ConsoleKey direction) {
+        private async Task Operate(ConsoleKey direction) {
             switch (direction) {
                 case ConsoleKey.UpArrow:
-                    OnUpArrow();
+                    await OnUpArrow();
                     break;
                 case ConsoleKey.DownArrow:
-                    OnDownArrow();
+                    await OnDownArrow();
                     break;
                 case ConsoleKey.LeftArrow:
-                    OnLeftArrow();
+                    await OnLeftArrow();
                     break;
                 case ConsoleKey.RightArrow:
-                    OnRightArrow();
+                    await OnRightArrow();
                     break;
             }
             DisPlay();
         }
 
-        private void OnUpArrow() { }
+        private async Task OnUpArrow() {
+            Console.WriteLine("up");
+            await Task.Delay(1000);
+        }
 
-        private void OnDownArrow() { }
+        private async Task OnDownArrow() {
+            Console.WriteLine("down");
+            await Task.Delay(1000);
+        }
 
-        private void OnLeftArrow() { }
+        private async Task OnLeftArrow() {
+            Console.WriteLine("left");
+            await Task.Delay(1000);
+        }
 
-        private void OnRightArrow() { }
+        private async Task OnRightArrow() {
+            Console.WriteLine("right");
+            await Task.Delay(1000);
+        }
 
         private void DisPlay() {
             Console.Clear();

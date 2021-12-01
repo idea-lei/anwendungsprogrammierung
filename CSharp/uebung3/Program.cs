@@ -3,8 +3,33 @@ using System.Threading.Tasks;
 
 namespace uebung3 {
     class Program {
+        private delegate void ExampaleDelegate(double nr);
         static void Main(string[] args) {
+            //// 1. try catch finally
+            //int a = 0;
+            //int b = 0;
+            //try
+            //{
+            //    // buggy code here
+            //    int result = a / b;
+            //}
+            //catch (Exception ex) { 
+            //    // aufgerufen nur Fehler passiert
+            //    Console.WriteLine(ex.ToString());
+            //    Console.WriteLine("ich wird nur unter Fehler aufgerufen");
+            //}
+            ////finally
+            ////{
+            ////    // aufgerufen egal ob es Fehler gibt
+            ////    Console.WriteLine("ich wird immer aufgerufen");
+            ////}
 
+            // 2. datentyp wechseln
+            if(double.TryParse(Console.ReadLine(), out double result)){
+                Console.WriteLine(result);
+            }
+
+            // 3. log datei
         }
     }
 }

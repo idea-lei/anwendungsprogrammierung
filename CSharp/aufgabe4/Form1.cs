@@ -20,9 +20,10 @@ namespace aufgabe4 {
             try {
                 double n1 = double.Parse(textBox1.Text);
                 double n2 = double.Parse(textBox2.Text);
-                char op = (char)comboBox1.SelectedItem;
+                char eingetippt = comboBox1.Text[0];
+                //char op = (char)comboBox1.SelectedItem;
 
-                switch (op) {
+                switch (eingetippt) {
                     case '+':
                         label1.Text = (n1 + n2).ToString();
                         break;
@@ -34,6 +35,8 @@ namespace aufgabe4 {
                         break;
                     case '/':
                         label1.Text = (n1 / n2).ToString();
+                        break;
+                    default:
                         break;
                 }
             } catch(Exception err) {

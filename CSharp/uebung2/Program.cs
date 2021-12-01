@@ -1,20 +1,22 @@
 ﻿using System;
 
+// OOP object oriented programming
 namespace uebung2 {
     class Program {
         static void Main(string[] args) {
             //var Jack = new Animal("Jack", new DateTime(2010, 01, 01));
+            //var animal = new Animal();
             var jack = new Dog("Jack", new DateTime(2010, 01, 01));
         }
     }
 
-    public class Animal {
+    public abstract class Animal {
         DateTime Birthday { get; set; }
         string Name { get; set; }
         public Animal(string name, DateTime birthday) {
             Birthday = birthday;
             Name = name;
-            Console.WriteLine($"{Name}, birthday is {birthday.Date}");
+            Console.WriteLine($"{Name}, birthday is {Birthday.Date}");
             Console.WriteLine("this is a animal class");
         }
     }

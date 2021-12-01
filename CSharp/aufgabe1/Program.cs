@@ -3,11 +3,7 @@
 namespace aufgabe1 {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine(NamelessFunc(4));
-        }
-
-        static int NamelessFunc(int a) {
-            return a <= 1 ? 1 : a + NamelessFunc(a - 1);
+            // program entry
         }
     }
 }

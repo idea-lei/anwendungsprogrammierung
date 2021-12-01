@@ -9,40 +9,65 @@ using System;
 /// den Umfang der Klassen- und Methodennamen in größeren Programmierprojekten zu steuern. 
 /// Verwenden Sie das Namespace-Schlüsselwort, um einen Namespace zu deklarieren
 /// </summary>
+/// 
 
-namespace Anwendungsprogrammierung {
+// Strg + k + c -> Kommentieren
+// Strg + k + u -> Kommentar weg
+
+namespace Anwendungsprogrammierung
+{
     /// <summary>
     /// Klassen werden mithilfe des Schlüsselworts class deklariert, wie im folgenden Beispiel dargestellt
     /// </summary>
-    class Program {
-        static void Main(string[] args) {
-           // if
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // if
 
-           //int a = 100; //bool, string, int, float, (decimal, double, long…)
-           //             // Eine if -Anweisung ermittelt, welche Anweisung basierend auf dem Wert 
-           //             // eines booleschen Ausdrucks auszuführen ist. 
-           // if (a < 50) {
-           //     Console.WriteLine("a < 50");
-           // } else if (a < 100) {
-           //     Console.WriteLine("a < 100");
-           // } else if (a < 150) {
-           //     Console.WriteLine("a < 150");
-           // } else {
-           //     Console.WriteLine("a >= 150");
-           // }
+            //int a = 100; //bool, string, int, float, (decimal, double, long…)
+            //             // Eine if -Anweisung ermittelt, welche Anweisung basierend auf dem Wert 
+            //             // eines booleschen Ausdrucks auszuführen ist. 
+            //if (a < 50)
+            //{
+            //    Console.WriteLine("a < 50");
+            //}
+            //else if (a < 100)
+            //{
+            //    Console.WriteLine("a < 100");
+            //}
+            //else if (a < 150)
+            //{
+            //    Console.WriteLine("a < 150");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("a >= 150");
+            //}
 
-           // for
-           // // i++ bedeutet i = i+1, i-- bedeutet i=i-1
-           //             for (int i = 0; i < 10; i++) {
-           //         Console.WriteLine(i);
-           //     }
+            //for
+            // i++ bedeutet i = i+1, i-- bedeutet i=i-1
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
 
-           // foreach
+            // foreach
 
-           //int[] a = { 1, 2, 3, 4 };
-           // foreach (int i in a) {
-           //     Console.WriteLine(i);
-           // }
+            //string[] a = { "hallo", "hier", "ist", "CSharp" };
+            //foreach (string i in a)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            int i = 1;
+            //while (1 == i)
+            while (i++ < 100)
+            {
+                Console.WriteLine(i.ToString());
+            }
+
+            // vorsicht
         }
     }
 }

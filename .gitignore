@@ -7,3 +7,9 @@
 /CSharp/*/bin
 /VB/*/bin
 /VB/*/obj
+/CSharp/fahrtenbuch/fahrtenbuch/bin/Debug/net6.0-windows
+/CSharp/winform_start/winform_start/bin/Debug/net6.0-windows
+/CSharp/fahrtenbuch/fahrtenbuch/obj
+/CSharp/winform_start/winform_start/obj
+/CSharp/fahrtenbuch/fahrtenbuch/Database1.mdf
+/CSharp/fahrtenbuch/fahrtenbuch/Database1_log.ldf
