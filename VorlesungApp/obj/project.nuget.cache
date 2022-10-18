@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyPsawnk7h/QTBOswJMdrwiEydngOWH08fp0yqMa6JaXMlbwJoxnQZf93+CmMylvRY1TOu0fP39y3SKZoiYaEA==",
+  "success": true,
+  "projectFilePath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\VorlesungApp\\VorlesungApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ideal\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\ideal\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
