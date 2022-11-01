@@ -22,7 +22,7 @@ namespace fahrtenbuch
             using (AppDbContext db = new AppDbContext())
             {
                 List<Verbrauch> verbList = db.Verbrauche?.ToList() ?? new List<Verbrauch>();
-
+                
                 dg1.DataSource = verbList;
                 dg1.Update();
             } 
@@ -43,6 +43,7 @@ namespace fahrtenbuch
 
                 db.Verbrauche?.Add(v1);
                 db.SaveChanges();
+                MessageBox.Show("erfolgreich hinzugefügt!");
             }
             
         }

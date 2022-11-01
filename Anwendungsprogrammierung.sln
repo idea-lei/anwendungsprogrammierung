@@ -50,8 +50,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiProjektClient", "CSharp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VorlesungApp", "VorlesungApp\VorlesungApp.csproj", "{556B21AA-E2BD-42A4-BEAD-C2E9688C11BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrtenbuchWPF", "FahrtenbuchWPF\FahrtenbuchWPF.csproj", "{8C74C296-5FBD-4272-9AA9-7600B890C719}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -134,10 +132,6 @@ Global
 		{556B21AA-E2BD-42A4-BEAD-C2E9688C11BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{556B21AA-E2BD-42A4-BEAD-C2E9688C11BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{556B21AA-E2BD-42A4-BEAD-C2E9688C11BF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8C74C296-5FBD-4272-9AA9-7600B890C719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C74C296-5FBD-4272-9AA9-7600B890C719}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C74C296-5FBD-4272-9AA9-7600B890C719}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C74C296-5FBD-4272-9AA9-7600B890C719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -162,7 +156,6 @@ Global
 		{BE408E64-CED4-4659-BB24-4657EE9FDAF4} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{2ABF2C3C-1D96-4C53-96F2-F94C0BB536B2} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{556B21AA-E2BD-42A4-BEAD-C2E9688C11BF} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
-		{8C74C296-5FBD-4272-9AA9-7600B890C719} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3EF2CFFF-DF39-4CE0-A804-CD4C67EB6B70}
