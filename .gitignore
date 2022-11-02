@@ -15,4 +15,6 @@
 /CSharp/fahrtenbuch/fahrtenbuch/Database1_log.ldf
 /CSharp/apiProjekt/AppData
 /FahrtenbuchWPF/obj
-/FahrtenbuchWPF/bin/Debug/net6.0-windows
+/FahrtenbuchWPF/bin
+/VorlesungApp/obj
+/VorlesungApp/bin
