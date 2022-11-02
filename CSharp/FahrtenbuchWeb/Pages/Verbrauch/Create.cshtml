@@ -1,0 +1,59 @@
+﻿@page
+@model FahrtenbuchWeb.Pages.Verbrauch.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>VerbrauchModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="VerbrauchModel.FZ_ID" class="control-label"></label>
+                <input asp-for="VerbrauchModel.FZ_ID" class="form-control" />
+                <span asp-validation-for="VerbrauchModel.FZ_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VerbrauchModel.Km_Stand" class="control-label"></label>
+                <input asp-for="VerbrauchModel.Km_Stand" class="form-control" />
+                <span asp-validation-for="VerbrauchModel.Km_Stand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VerbrauchModel.Km" class="control-label"></label>
+                <input asp-for="VerbrauchModel.Km" class="form-control" />
+                <span asp-validation-for="VerbrauchModel.Km" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VerbrauchModel.Verbrauch" class="control-label"></label>
+                <input asp-for="VerbrauchModel.Verbrauch" class="form-control" />
+                <span asp-validation-for="VerbrauchModel.Verbrauch" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VerbrauchModel.V_Km" class="control-label"></label>
+                <input asp-for="VerbrauchModel.V_Km" class="form-control" />
+                <span asp-validation-for="VerbrauchModel.V_Km" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VerbrauchModel.V_Mpg" class="control-label"></label>
+                <input asp-for="VerbrauchModel.V_Mpg" class="form-control" />
+                <span asp-validation-for="VerbrauchModel.V_Mpg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
