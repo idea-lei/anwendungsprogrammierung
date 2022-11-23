@@ -48,7 +48,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiProjekt", "CSharp\apiPro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiProjektClient", "CSharp\apiProjektClient\apiProjektClient.csproj", "{2ABF2C3C-1D96-4C53-96F2-F94C0BB536B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrtenbuchWeb", "CSharp\FahrtenbuchWeb\FahrtenbuchWeb.csproj", "{F0827D14-F5E8-4354-8D9C-88F761EA5A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrtenbuchWeb", "CSharp\FahrtenbuchWeb\FahrtenbuchWeb.csproj", "{F0827D14-F5E8-4354-8D9C-88F761EA5A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyManagement", "CSharp\KeyManagement\KeyManagement.csproj", "{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -132,6 +134,10 @@ Global
 		{F0827D14-F5E8-4354-8D9C-88F761EA5A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0827D14-F5E8-4354-8D9C-88F761EA5A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0827D14-F5E8-4354-8D9C-88F761EA5A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -156,6 +162,7 @@ Global
 		{BE408E64-CED4-4659-BB24-4657EE9FDAF4} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{2ABF2C3C-1D96-4C53-96F2-F94C0BB536B2} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{F0827D14-F5E8-4354-8D9C-88F761EA5A00} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
+		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3EF2CFFF-DF39-4CE0-A804-CD4C67EB6B70}

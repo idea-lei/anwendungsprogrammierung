@@ -18,3 +18,5 @@
 /FahrtenbuchWPF/bin
 /VorlesungApp/obj
 /VorlesungApp/bin
+/CSharp/KeyManagement/Data/KeyManagementDB.mdf
+/CSharp/KeyManagement/Data/KeyManagementDB_log.ldf
