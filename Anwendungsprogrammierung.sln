@@ -50,7 +50,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiProjektClient", "CSharp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrtenbuchWeb", "CSharp\FahrtenbuchWeb\FahrtenbuchWeb.csproj", "{F0827D14-F5E8-4354-8D9C-88F761EA5A00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyManagement", "CSharp\KeyManagement\KeyManagement.csproj", "{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyManagement", "CSharp\KeyManagement\KeyManagement.csproj", "{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashcam.Android", "CSharp\Dashcam\Dashcam.Android\Dashcam.Android.csproj", "{EC11065E-283A-4829-AA5F-5E05E4E31B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashcam", "CSharp\Dashcam\Dashcam\Dashcam.csproj", "{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -138,6 +142,16 @@ Global
 		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC11065E-283A-4829-AA5F-5E05E4E31B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC11065E-283A-4829-AA5F-5E05E4E31B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC11065E-283A-4829-AA5F-5E05E4E31B1D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EC11065E-283A-4829-AA5F-5E05E4E31B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC11065E-283A-4829-AA5F-5E05E4E31B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC11065E-283A-4829-AA5F-5E05E4E31B1D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -163,6 +177,8 @@ Global
 		{2ABF2C3C-1D96-4C53-96F2-F94C0BB536B2} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{F0827D14-F5E8-4354-8D9C-88F761EA5A00} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
+		{EC11065E-283A-4829-AA5F-5E05E4E31B1D} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
+		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3EF2CFFF-DF39-4CE0-A804-CD4C67EB6B70}
