@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             x:Class="Dashcam.Views.DashcamPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <xct:CameraView
+                Grid.Row="0"
+                x:Name="cameraView"
+                CaptureMode="Video"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand">
+            </xct:CameraView>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button x:Name="btn_ToggleRecording" Grid.Row="0" Text="Record" Clicked="btn_ToggleRecording_Clicked"/>
+                <Label x:Name="lbl_Speed" Grid.Row="1" Text="Current Speed"/>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
