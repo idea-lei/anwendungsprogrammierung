@@ -54,7 +54,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyManagement", "CSharp\Key
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashcam.Android", "CSharp\Dashcam\Dashcam.Android\Dashcam.Android.csproj", "{EC11065E-283A-4829-AA5F-5E05E4E31B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashcam", "CSharp\Dashcam\Dashcam\Dashcam.csproj", "{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dashcam", "CSharp\Dashcam\Dashcam\Dashcam.csproj", "{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrtenbuchWeb_New", "CSharp\FahrtenbuchWeb_New\FahrtenbuchWeb_New.csproj", "{AF307EEF-D2D1-4160-83B1-9DFCB41CE53F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -152,6 +154,10 @@ Global
 		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF307EEF-D2D1-4160-83B1-9DFCB41CE53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF307EEF-D2D1-4160-83B1-9DFCB41CE53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF307EEF-D2D1-4160-83B1-9DFCB41CE53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF307EEF-D2D1-4160-83B1-9DFCB41CE53F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -179,6 +185,7 @@ Global
 		{AD2A5BD7-7D46-4796-A363-CAA9E59CDA52} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{EC11065E-283A-4829-AA5F-5E05E4E31B1D} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 		{A8B6E794-FE5B-444A-BF17-C341FA92BE4F} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
+		{AF307EEF-D2D1-4160-83B1-9DFCB41CE53F} = {99865A18-6C51-4CCB-A2D2-3673CD7C1364}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3EF2CFFF-DF39-4CE0-A804-CD4C67EB6B70}

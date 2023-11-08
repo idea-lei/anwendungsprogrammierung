@@ -1,0 +1,23 @@
+﻿@page
+@model FahrtenbuchWeb_New.Pages.TestModel
+@{
+    ViewData["Title"] = "Test Page";
+}
+
+<h1>This is the test page</h1>
+
+<form id="registerForm" method="post">
+    <h2>Erstellen Sie ein neues Benutzerkonto.</h2>
+    <hr />
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-floating">
+        <input asp-for="Email" class="form-control" autocomplete="off" aria-required="true" />
+        <label asp-for="Email"></label>
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <button type="submit">Submit</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
