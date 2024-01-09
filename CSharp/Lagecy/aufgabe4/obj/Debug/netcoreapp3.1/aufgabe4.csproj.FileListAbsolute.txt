@@ -1,0 +1,16 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\netcoreapp3.1\aufgabe4.exe
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\netcoreapp3.1\aufgabe4.deps.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\netcoreapp3.1\aufgabe4.runtimeconfig.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\netcoreapp3.1\aufgabe4.runtimeconfig.dev.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\netcoreapp3.1\aufgabe4.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\netcoreapp3.1\aufgabe4.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.Form1.resources
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.csproj.GenerateResource.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.csproj.CoreCompileInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\netcoreapp3.1\aufgabe4.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\bin\Debug\net8.0\OOP.exe
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\bin\Debug\net8.0\OOP.deps.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\bin\Debug\net8.0\OOP.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\bin\Debug\net8.0\OOP.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\OOP.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\refint\OOP.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\OOP.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\OOP\obj\Debug\net8.0\ref\OOP.dll

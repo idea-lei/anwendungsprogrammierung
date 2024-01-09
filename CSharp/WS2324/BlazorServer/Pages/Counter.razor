@@ -1,0 +1,23 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<div style="@(styleOfDiv)">Current count: @(currentCount)!</div>
+<button @onclick="AddOne">Click me to add 1</button>
+
+@code {
+    private int currentCount = 0;
+    private string styleOfDiv = "font-size: 1em";
+    private void AddOne()
+    {
+        currentCount++; // currentCount = currentCount + 1
+                        // styleOfDiv = $"font-size: {currentCount}em";
+        int r, g, b;
+        r = Random.Shared.Next(0, 255);
+        g = Random.Shared.Next(0, 255);
+        b = Random.Shared.Next(0, 255);
+        styleOfDiv = $"color: rgb({r},{g},{b}); font-size: {currentCount}em";
+    }
+}

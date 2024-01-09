@@ -1,0 +1,14 @@
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\bin\Release\net8.0\Net8Aot.exe
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\bin\Release\net8.0\Net8Aot.deps.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\bin\Release\net8.0\Net8Aot.runtimeconfig.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\bin\Release\net8.0\Net8Aot.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\bin\Release\net8.0\Net8Aot.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\Net8Aot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\Net8Aot.AssemblyInfoInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\Net8Aot.AssemblyInfo.cs
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\Net8Aot.csproj.CoreCompileInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\Net8Aot.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\refint\Net8Aot.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\Net8Aot.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\Net8Aot.genruntimeconfig.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\obj\Release\net8.0\ref\Net8Aot.dll

@@ -1,0 +1,7 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\obj\Debug\net5.0-windows\fahrtenbuch.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\obj\Debug\net5.0-windows\fahrtenbuch.Form1.resources
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\obj\Debug\net5.0-windows\fahrtenbuch.csproj.GenerateResource.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\obj\Debug\net5.0-windows\fahrtenbuch.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\obj\Debug\net5.0-windows\fahrtenbuch.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\obj\Debug\net5.0-windows\fahrtenbuch.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\obj\Debug\net5.0-windows\fahrtenbuch.csproj.CoreCompileInputs.cache

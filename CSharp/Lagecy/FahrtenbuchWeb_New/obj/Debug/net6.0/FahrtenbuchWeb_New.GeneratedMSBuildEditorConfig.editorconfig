@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FahrtenbuchWeb_New
+build_property.RootNamespace = FahrtenbuchWeb_New
+build_property.ProjectDir = D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\FahrtenbuchWeb_New\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\FahrtenbuchWeb_New
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Verbrauch/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyYnJhdWNoXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Verbrauch/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyYnJhdWNoXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Verbrauch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyYnJhdWNoXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Verbrauch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyYnJhdWNoXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Verbrauch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVyYnJhdWNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/works/Arbeit/Entwicklung/UDE/VIP/Lehren/AWP/CSharp/FahrtenbuchWeb_New/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ea7s8q1qwn

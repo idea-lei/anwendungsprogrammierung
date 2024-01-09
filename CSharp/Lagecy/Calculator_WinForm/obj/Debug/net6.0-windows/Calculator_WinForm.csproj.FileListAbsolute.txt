@@ -1,0 +1,17 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.exe
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.deps.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.runtimeconfig.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.Form1.resources
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.csproj.GenerateResource.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.csproj.CoreCompileInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\refint\Calculator_WinForm.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.genruntimeconfig.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\Calculator_WinForm\obj\Debug\net6.0-windows\ref\Calculator_WinForm.dll

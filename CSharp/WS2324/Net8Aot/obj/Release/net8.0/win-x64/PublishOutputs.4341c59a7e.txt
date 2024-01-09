@@ -1,0 +1,2 @@
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\bin\Release\net8.0\publish\win-x64\Net8Aot.exe
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\Net8Aot\bin\Release\net8.0\publish\win-x64\Net8Aot.pdb

@@ -1,0 +1,14 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\bin\Debug\netcoreapp3.1\uebung2.exe
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\bin\Debug\netcoreapp3.1\uebung2.deps.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\bin\Debug\netcoreapp3.1\uebung2.runtimeconfig.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\bin\Debug\netcoreapp3.1\uebung2.runtimeconfig.dev.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\bin\Debug\netcoreapp3.1\uebung2.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\bin\Debug\netcoreapp3.1\uebung2.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.csproj.CoreCompileInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung2\obj\Debug\netcoreapp3.1\uebung2.genruntimeconfig.cache

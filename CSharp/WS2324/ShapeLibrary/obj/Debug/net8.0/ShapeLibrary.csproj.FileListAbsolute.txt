@@ -1,0 +1,14 @@
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.exe
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.deps.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.runtimeconfig.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\refint\ShapeLibrary.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.genruntimeconfig.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\ShapeLibrary\obj\Debug\net8.0\ref\ShapeLibrary.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nX32jDF3ubBbuPaQfOxe1g7ntMFlYJScm0r6BZkZaCOwXuqP+zUstxeIiudEnQyiSQNvqbWXPQFoed8jy+rjFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\Net8Aot\\Net8Aot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ideal\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\ideal\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\ideal\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\ideal\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.0\\microsoft.netcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\ideal\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\ideal\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\ideal\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

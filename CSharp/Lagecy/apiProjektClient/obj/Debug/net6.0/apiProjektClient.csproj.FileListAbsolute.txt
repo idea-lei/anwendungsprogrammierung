@@ -1,0 +1,17 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\bin\Debug\net6.0\apiProjektClient.exe
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\bin\Debug\net6.0\apiProjektClient.deps.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\bin\Debug\net6.0\apiProjektClient.runtimeconfig.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\bin\Debug\net6.0\apiProjektClient.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\bin\Debug\net6.0\apiProjektClient.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.csproj.CoreCompileInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.csproj.CopyComplete
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\refint\apiProjektClient.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\apiProjektClient.genruntimeconfig.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\apiProjektClient\obj\Debug\net6.0\ref\apiProjektClient.dll

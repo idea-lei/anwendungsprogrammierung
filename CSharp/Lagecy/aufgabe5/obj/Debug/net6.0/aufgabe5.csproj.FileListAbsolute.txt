@@ -1,0 +1,15 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\bin\Debug\net6.0\aufgabe5.exe
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\bin\Debug\net6.0\aufgabe5.deps.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\bin\Debug\net6.0\aufgabe5.runtimeconfig.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\bin\Debug\net6.0\aufgabe5.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\bin\Debug\net6.0\aufgabe5.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.csproj.CoreCompileInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\refint\aufgabe5.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\aufgabe5.genruntimeconfig.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe5\obj\Debug\net6.0\ref\aufgabe5.dll

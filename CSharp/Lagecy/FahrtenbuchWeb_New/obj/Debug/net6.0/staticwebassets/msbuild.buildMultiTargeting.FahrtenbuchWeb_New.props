@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FahrtenbuchWeb_New.props" />
+</Project>

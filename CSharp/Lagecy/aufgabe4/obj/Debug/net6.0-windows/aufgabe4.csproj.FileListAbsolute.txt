@@ -1,0 +1,17 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\net6.0-windows\aufgabe4.exe
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\net6.0-windows\aufgabe4.deps.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\net6.0-windows\aufgabe4.runtimeconfig.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\net6.0-windows\aufgabe4.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\bin\Debug\net6.0-windows\aufgabe4.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.Form1.resources
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.csproj.GenerateResource.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.csproj.CoreCompileInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\refint\aufgabe4.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\aufgabe4.genruntimeconfig.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\aufgabe4\obj\Debug\net6.0-windows\ref\aufgabe4.dll

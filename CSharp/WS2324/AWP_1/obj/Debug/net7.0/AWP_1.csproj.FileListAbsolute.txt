@@ -1,0 +1,14 @@
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\bin\Debug\net7.0\AWP_1.exe
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\bin\Debug\net7.0\AWP_1.deps.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\bin\Debug\net7.0\AWP_1.runtimeconfig.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\bin\Debug\net7.0\AWP_1.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\bin\Debug\net7.0\AWP_1.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\AWP_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\AWP_1.AssemblyInfoInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\AWP_1.AssemblyInfo.cs
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\AWP_1.csproj.CoreCompileInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\AWP_1.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\refint\AWP_1.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\AWP_1.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\AWP_1.genruntimeconfig.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\obj\Debug\net7.0\ref\AWP_1.dll

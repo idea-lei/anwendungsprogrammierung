@@ -1,0 +1,15 @@
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\bin\Debug\net6.0\uebung6.exe
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\bin\Debug\net6.0\uebung6.deps.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\bin\Debug\net6.0\uebung6.runtimeconfig.json
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\bin\Debug\net6.0\uebung6.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\bin\Debug\net6.0\uebung6.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.csproj.AssemblyReference.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.AssemblyInfoInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.AssemblyInfo.cs
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.csproj.CoreCompileInputs.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\refint\uebung6.dll
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.pdb
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\uebung6.genruntimeconfig.cache
+D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\uebung6\obj\Debug\net6.0\ref\uebung6.dll

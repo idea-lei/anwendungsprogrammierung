@@ -1,0 +1,16 @@
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\bin\Debug\net8.0-windows\WinForm_EF.exe
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\bin\Debug\net8.0-windows\WinForm_EF.deps.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\bin\Debug\net8.0-windows\WinForm_EF.runtimeconfig.json
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\bin\Debug\net8.0-windows\WinForm_EF.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\bin\Debug\net8.0-windows\WinForm_EF.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.AssemblyInfoInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.AssemblyInfo.cs
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.csproj.CoreCompileInputs.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\refint\WinForm_EF.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.pdb
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.genruntimeconfig.cache
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\ref\WinForm_EF.dll
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.Form1.resources
+D:\Works\Arbeit\Entwicklung\temp\AWP_1\WinForm_EF\obj\Debug\net8.0-windows\WinForm_EF.csproj.GenerateResource.cache
