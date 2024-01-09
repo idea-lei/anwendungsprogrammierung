@@ -1977,19 +1977,19 @@
   },
   "packageFolders": {
     "C:\\Users\\ideal\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\KeyManagement\\KeyManagement.csproj",
+      "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\KeyManagement\\KeyManagement.csproj",
       "projectName": "KeyManagement",
-      "projectPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\KeyManagement\\KeyManagement.csproj",
+      "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\KeyManagement\\KeyManagement.csproj",
       "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-      "outputPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\KeyManagement\\obj\\",
+      "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\KeyManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",

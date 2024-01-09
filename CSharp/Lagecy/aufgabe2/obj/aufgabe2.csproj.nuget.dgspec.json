@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\aufgabe2\\aufgabe2.csproj": {}
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\aufgabe2\\aufgabe2.csproj": {}
   },
   "projects": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\aufgabe2\\aufgabe2.csproj": {
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\aufgabe2\\aufgabe2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\aufgabe2\\aufgabe2.csproj",
+        "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\aufgabe2\\aufgabe2.csproj",
         "projectName": "aufgabe2",
-        "projectPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\aufgabe2\\aufgabe2.csproj",
+        "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\aufgabe2\\aufgabe2.csproj",
         "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-        "outputPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\aufgabe2\\obj\\",
+        "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\aufgabe2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",

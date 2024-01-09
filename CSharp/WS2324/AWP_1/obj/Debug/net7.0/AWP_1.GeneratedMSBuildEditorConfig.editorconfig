@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AWP_1
-build_property.ProjectDir = D:\Works\Arbeit\Entwicklung\temp\AWP_1\AWP_1\
+build_property.ProjectDir = D:\Works\UDE\dev\vip\Anwendungsprogrammierung\CSharp\WS2324\AWP_1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

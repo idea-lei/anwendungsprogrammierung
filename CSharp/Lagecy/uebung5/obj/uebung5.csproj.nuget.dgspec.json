@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung5\\uebung5.csproj": {}
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung5\\uebung5.csproj": {}
   },
   "projects": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung5\\uebung5.csproj": {
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung5\\uebung5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung5\\uebung5.csproj",
+        "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung5\\uebung5.csproj",
         "projectName": "uebung5",
-        "projectPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung5\\uebung5.csproj",
+        "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung5\\uebung5.csproj",
         "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-        "outputPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung5\\obj\\",
+        "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",

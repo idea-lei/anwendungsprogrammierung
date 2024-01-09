@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj": {}
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj": {}
   },
   "projects": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj": {
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj",
+        "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj",
         "projectName": "fahrtenbuch",
-        "projectPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj",
+        "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\fahrtenbuch\\fahrtenbuch\\fahrtenbuch.csproj",
         "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-        "outputPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\fahrtenbuch\\fahrtenbuch\\obj\\",
+        "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\fahrtenbuch\\fahrtenbuch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",

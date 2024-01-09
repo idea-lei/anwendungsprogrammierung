@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = fahrtenbuch
-build_property.ProjectDir = D:\works\Arbeit\Entwicklung\UDE\VIP\Lehren\AWP\CSharp\fahrtenbuch\fahrtenbuch\
+build_property.ProjectDir = D:\Works\UDE\dev\vip\Anwendungsprogrammierung\CSharp\Lagecy\fahrtenbuch\fahrtenbuch\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

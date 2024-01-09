@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\ideal\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung2\\uebung2.csproj",
+      "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung2\\uebung2.csproj",
       "projectName": "uebung2",
-      "projectPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung2\\uebung2.csproj",
+      "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung2\\uebung2.csproj",
       "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-      "outputPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\uebung2\\obj\\",
+      "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\uebung2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",

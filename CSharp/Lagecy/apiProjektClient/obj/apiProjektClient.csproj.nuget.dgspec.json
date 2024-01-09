@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\apiProjektClient\\apiProjektClient.csproj": {}
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\apiProjektClient\\apiProjektClient.csproj": {}
   },
   "projects": {
-    "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\apiProjektClient\\apiProjektClient.csproj": {
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\apiProjektClient\\apiProjektClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\apiProjektClient\\apiProjektClient.csproj",
+        "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\apiProjektClient\\apiProjektClient.csproj",
         "projectName": "apiProjektClient",
-        "projectPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\apiProjektClient\\apiProjektClient.csproj",
+        "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\apiProjektClient\\apiProjektClient.csproj",
         "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-        "outputPath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\apiProjektClient\\obj\\",
+        "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\apiProjektClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",

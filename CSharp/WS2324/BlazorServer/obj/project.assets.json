@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\ideal\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\BlazorServer\\BlazorServer.csproj",
+      "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\BlazorServer\\BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\BlazorServer\\BlazorServer.csproj",
+      "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\BlazorServer\\BlazorServer.csproj",
       "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-      "outputPath": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\BlazorServer\\obj\\",
+      "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\BlazorServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",

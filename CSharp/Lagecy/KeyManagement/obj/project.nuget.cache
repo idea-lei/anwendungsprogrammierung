@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "88RHTdF1u5X9Xh5OOvpR4GkuJn+OGx+g2GbIvukIlYstOw3OmpDM71T4AzC9HYrAZEa5NvlZGYd/UafEKgKc7w==",
+  "dgSpecHash": "24C1fuNciCqv35Fxi3p/LwpENE62DBk+03ayzNC0/cSRrz2tmgUuEftSssYonexuHv2vyj8EtHoQcgWV5aDY9g==",
   "success": true,
-  "projectFilePath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\KeyManagement\\KeyManagement.csproj",
+  "projectFilePath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\KeyManagement\\KeyManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ideal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

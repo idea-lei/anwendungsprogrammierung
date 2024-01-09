@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pkm7a0C3XX2HpMdIATMgpPWAwTOZYZjAnUuQmmPfRYVoBXCMEEOK15lHtapXt0UubXuV+fTRh5KjAleiLgdRCg==",
+  "dgSpecHash": "dLFF5W2t4fGnAY4EYCCowDZBw5LSp1FmJlfW/ycM3AP3/QSYCu3Facus9NJrnEM7MAjZxt/lNDy7jzm2COtgHg==",
   "success": true,
-  "projectFilePath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\Dashcam\\Dashcam.Android\\Dashcam.Android.csproj",
+  "projectFilePath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\Dashcam\\Dashcam.Android\\Dashcam.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ideal\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

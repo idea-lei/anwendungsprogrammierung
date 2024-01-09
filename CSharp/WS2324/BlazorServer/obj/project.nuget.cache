@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XeGHucHmd9lAXbDQayRLs7NtleuY4c6hPPprUPIXHVhTyCMWnD1orgBCwaWM7dDDL/AAAYLfXCByOE1rcyWtbQ==",
+  "dgSpecHash": "TRlKjDuxjWRv0otonaDS+DcCo5L5C2VV+HDwXlm6FQzBWDrHUYkPnQyzFXWA/H+2JHHh+y7EJXuidmSdBvLHMw==",
   "success": true,
-  "projectFilePath": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\BlazorServer\\BlazorServer.csproj",
+  "projectFilePath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\BlazorServer\\BlazorServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

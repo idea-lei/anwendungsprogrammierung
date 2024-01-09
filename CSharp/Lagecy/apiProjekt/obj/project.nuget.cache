@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1toUIO+7SILVOGyiSvrga1Zka98Ez/nxrRM7tEJ6H5By87PZr1Ait1N4TR39A85C7qCJlMvcI8NCizHOTgGvvg==",
+  "dgSpecHash": "+RhdbFwJV+6DXW3xLiWWXIdjkfzhr9gSTyPBVEPDOMUXQoPTh+cPAPrIymiO1Fg8ibfps290I/7+ZPDVzM/JBA==",
   "success": true,
-  "projectFilePath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\apiProjekt\\apiProjekt.csproj",
+  "projectFilePath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\apiProjekt\\apiProjekt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ideal\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

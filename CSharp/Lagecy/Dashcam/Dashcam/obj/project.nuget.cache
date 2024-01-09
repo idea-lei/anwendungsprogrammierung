@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DpgcyH3XCE59YUj8DDfn6LgqzrTFGqCRxw5VIhcj4IsMeor95VIcS3ItHiJb+NBoI+jQxKScdfIZo7CI2RsvzQ==",
+  "dgSpecHash": "uAsN+KN/Cb4Emc/iSLLksIToApJrTvzJpE4DdQbxVmpNBDlLK9Ad6Im/KWD45aj/Z6NyEyqU7sDBYvV9w5NOBw==",
   "success": true,
-  "projectFilePath": "D:\\works\\Arbeit\\Entwicklung\\UDE\\VIP\\Lehren\\AWP\\CSharp\\Dashcam\\Dashcam\\Dashcam.csproj",
+  "projectFilePath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\Lagecy\\Dashcam\\Dashcam\\Dashcam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\ideal\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.5\\xamarin.communitytoolkit.2.0.5.nupkg.sha512",

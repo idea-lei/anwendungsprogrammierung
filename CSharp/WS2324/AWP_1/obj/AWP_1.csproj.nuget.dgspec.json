@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\AWP_1\\AWP_1.csproj": {}
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\AWP_1\\AWP_1.csproj": {}
   },
   "projects": {
-    "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\AWP_1\\AWP_1.csproj": {
+    "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\AWP_1\\AWP_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\AWP_1\\AWP_1.csproj",
+        "projectUniqueName": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\AWP_1\\AWP_1.csproj",
         "projectName": "AWP_1",
-        "projectPath": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\AWP_1\\AWP_1.csproj",
+        "projectPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\AWP_1\\AWP_1.csproj",
         "packagesPath": "C:\\Users\\ideal\\.nuget\\packages\\",
-        "outputPath": "D:\\Works\\Arbeit\\Entwicklung\\temp\\AWP_1\\AWP_1\\obj\\",
+        "outputPath": "D:\\Works\\UDE\\dev\\vip\\Anwendungsprogrammierung\\CSharp\\WS2324\\AWP_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\SoftwareData\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\ideal\\AppData\\Roaming\\NuGet\\NuGet.Config",
