@@ -3,21 +3,11 @@
 ################################################################################
 
 /.vs
-/CSharp/*/obj
-/CSharp/*/bin
-/VB/*/bin
-/VB/*/obj
-/CSharp/fahrtenbuch/fahrtenbuch/bin/Debug/net6.0-windows
-/CSharp/winform_start/winform_start/bin/Debug/net6.0-windows
-/CSharp/fahrtenbuch/fahrtenbuch/obj
-/CSharp/winform_start/winform_start/obj
+**/obj/
+**/bin/
 /CSharp/fahrtenbuch/fahrtenbuch/Database1.mdf
 /CSharp/fahrtenbuch/fahrtenbuch/Database1_log.ldf
 /CSharp/apiProjekt/AppData
-/FahrtenbuchWPF/obj
-/FahrtenbuchWPF/bin
-/VorlesungApp/obj
-/VorlesungApp/bin
 /CSharp/KeyManagement/Data/KeyManagementDB.mdf
 /CSharp/KeyManagement/Data/KeyManagementDB_log.ldf
 /CSharp/Dashcam/Dashcam/bin/Debug/netstandard2.0
